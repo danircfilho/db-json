@@ -1,24 +1,24 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta",
-      "price": 5.9
+      "id": 0,
+      "name": "Teste 1",
+      "price": "12.98"
     },
     {
-      "id": 2,
-      "name": "Lápis",
-      "price": 3.9
+      "name": "Teste 2",
+      "price": "12.54",
+      "id": 1
     },
     {
-      "id": 3,
-      "name": "Caderno",
-      "price": 15.9
+      "name": "Teste 3",
+      "price": "123.78",
+      "id": 2
     },
     {
-      "id": 5,
-      "name": "Brochurão",
-      "price": "4.86"
+      "name": "Teste 4",
+      "price": "543.67",
+      "id": 3
     }
   ]
 }
