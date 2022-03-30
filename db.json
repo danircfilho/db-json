@@ -1,24 +1,9 @@
 {
   "products": [
     {
-      "id": 0,
-      "name": "Teste 1",
-      "price": "12.98"
-    },
-    {
-      "name": "Teste 2",
-      "price": "12.54",
-      "id": 1
-    },
-    {
-      "name": "Teste 3",
-      "price": "123.78",
-      "id": 2
-    },
-    {
-      "name": "Teste 4",
-      "price": "543.67",
-      "id": 3
+      "name": "Teste 01",
+      "price": "00.00",
+      "id": 0
     }
   ]
 }
